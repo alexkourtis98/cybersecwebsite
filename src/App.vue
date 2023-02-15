@@ -154,9 +154,6 @@
                        src="https://www.freeiconspng.com/uploads/photos-facebook-logo-png-transparent-background-13.png"
                        style="object-fit: cover; width: 100%; height: 100%;">
                 </div>
-                <div>
-                  <p><b>Facebook</b></p>
-                </div>
               </li>
             </a>
           </ul>
