@@ -9,7 +9,7 @@ export default defineConfig({
             reactivityTransform: true,
         }),
     ],
-    base: '/cyber-club-website/',
+    base: '/cybersecwebsite/',
     resolve: {
         alias: {
             '@': fileURLToPath(new URL('./src', import.meta.url)),
