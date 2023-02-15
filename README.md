@@ -1,3 +1,7 @@
-# cybersecwebsite
+# CyberSec
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vue3-vite-router-starter-83ewpl)
+The repo for the website for the CyberSec website.
+
+--------------------------
+
+Created by Alexandros Kourtis
