@@ -10,8 +10,8 @@
     <h1>CyberSec</h1>
     <p>[Cracking the web one bit at a time]</p>
     <hr>
-    <h3>About us</h3>
-    <div style="display: flex; justify-content: left; align-content: center; align-items: center;">
+    <h3 style="margin-bottom: 0">About us</h3>
+    <div style="display: flex; justify-content: left; align-content: center; align-items: center; margin-top: 0;">
       <h3 style="font-weight: normal; margin-right: 20px;">
         CyberSec is a team that originated in <a href="https://dccyberclub.com">Cyber Club @ ACG.</a> It's a
         cybersecurity team that participates in CTF competitions. It was founded in 2022.

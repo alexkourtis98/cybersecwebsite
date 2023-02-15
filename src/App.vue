@@ -105,9 +105,6 @@
                   <img alt="" src="https://cdn.cdnlogo.com/logos/y/57/youtube-icon.svg"
                        style="object-fit: cover; width: 100%; height: 100%;">
                 </div>
-                <div>
-                  <p><b>YouTube</b></p>
-                </div>
               </li>
             </a>
             <a href="https://twitter.com">
@@ -115,9 +112,6 @@
                 <div class="imgwrappersocialicon" style="width: 40px; height: 40px; margin: auto">
                   <img alt="" src="https://cdn-icons-png.flaticon.com/512/124/124021.png"
                        style="object-fit: cover; width: 100%; height: 100%;">
-                </div>
-                <div>
-                  <p><b>Twitter</b></p>
                 </div>
               </li>
             </a>
@@ -128,9 +122,6 @@
                        src="https://www.transparentpng.com/download/logo-instagram/N0iIUX-logo-instagram-transparent-hd.png"
                        style="object-fit: cover; width: 100%; height: 100%;">
                 </div>
-                <div>
-                  <p><b>Instagram</b></p>
-                </div>
               </li>
             </a>
 
@@ -140,9 +131,6 @@
                   <img alt=""
                        src="https://assets.stickpng.com/images/58e91afdeb97430e81906504.png"
                        style="object-fit: cover; width: 100%; height: 100%;">
-                </div>
-                <div>
-                  <p><b>LinkedIn</b></p>
                 </div>
               </li>
             </a>
