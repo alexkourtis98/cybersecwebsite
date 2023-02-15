@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57f49232-814b-4835-9ad9-3ff03d9ec383" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/linkedin.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676427752974</updated>
-      <workItem from="1676427754589" duration="8279000" />
+      <workItem from="1676427754589" duration="8512000" />
     </task>
     <servers />
   </component>

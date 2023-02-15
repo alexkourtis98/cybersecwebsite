@@ -62,12 +62,12 @@
         <span></span>
         <span></span>
         <ul id="menu">
-          <router-link to="/">
+          <router-link to="/cybersecwebsite/">
             <li>
               Home
             </li>
           </router-link>
-          <router-link to="/members">
+          <router-link to="/cybersecwebsite/members">
             <li>
               Members
             </li>
