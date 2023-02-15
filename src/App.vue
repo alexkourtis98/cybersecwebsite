@@ -129,7 +129,7 @@
               <li>
                 <div class="imgwrappersocialicon" style="width: 40px; height: 40px; margin: auto">
                   <img alt=""
-                       src="https://assets.stickpng.com/images/58e91afdeb97430e81906504.png"
+                       src="./linkedin.png"
                        style="object-fit: cover; width: 100%; height: 100%;">
                 </div>
               </li>
