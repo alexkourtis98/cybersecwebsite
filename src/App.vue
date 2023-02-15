@@ -1,7 +1,4 @@
 <style>
-@import url(fontawesome-all.min.css);
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,500,600,700,900");
-
 :root {
 }
 
