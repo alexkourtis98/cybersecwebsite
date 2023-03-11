@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57f49232-814b-4835-9ad9-3ff03d9ec383" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/IMG_20230202_140030_4 (Large).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/michael.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Members.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Members.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/alex (1).jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/alex.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/haris (1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/haris.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/meletios (1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/meletios.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="57f49232-814b-4835-9ad9-3ff03d9ec383" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676427752974</updated>
       <workItem from="1676427754589" duration="8746000" />
-      <workItem from="1678500243775" duration="5017000" />
+      <workItem from="1678500243775" duration="5370000" />
     </task>
     <servers />
   </component>
