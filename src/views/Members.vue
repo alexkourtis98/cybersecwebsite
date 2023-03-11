@@ -98,7 +98,7 @@ button.ghost:hover {
     <ul class="cards">
       <li class="card">
         <div style="margin-top: 5px">
-          <img alt="user" class="round" src="./alex%20(1).jpeg"/>
+          <img alt="user" class="round" src="./alex.jpeg"/>
           <h3 class="card-title">Alexandros Kourtis</h3>
           <div class="card-content">
             <p>Web Exploitation</p>
@@ -107,7 +107,7 @@ button.ghost:hover {
       </li>
       <li class="card">
         <div style="margin-top: 5px">
-          <img alt="user" class="round" src="./IMG_20230202_140030_4%20(Large).jpg"/>
+          <img alt="user" class="round" src="./michael.jpg"/>
           <h3 class="card-title">Michael Strintzis</h3>
           <div class="card-content">
             <p>User Interface Designer</p>
@@ -116,7 +116,7 @@ button.ghost:hover {
       </li>
       <li class="card">
         <div style="margin-top: 5px">
-          <img alt="user" class="round" src="./haris%20(1).jpg"/>
+          <img alt="user" class="round" src="./haris.jpg"/>
           <h3 class="card-title">Haris Chastoukis</h3>
           <div class="card-content">
             <p>User Interface Designer</p>
@@ -171,7 +171,7 @@ button.ghost:hover {
 
       <li class="card">
         <div style="margin-top: 5px">
-          <img alt="user" class="round" src="./meletios%20(1).jpg"/>
+          <img alt="user" class="round" src="./meletios.jpg"/>
           <h3 class="card-title">Meletios Flevarakis</h3>
           <div class="card-content">
             <p>Steganography</p>
