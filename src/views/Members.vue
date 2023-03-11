@@ -7,7 +7,7 @@
   align-items: center;
   padding: 25px 0;
   flex-wrap: wrap;
-  gap: 30px;
+  gap: 60px;
 }
 
 .card {
@@ -19,7 +19,7 @@
   background: var(--bg-color);
   border-radius: 12px;
   border: 1px solid rgba(255, 255, 255, 0.20);
-  box-shadow: 6px 6px 12px 0 rgba(0, 0, 0, 0.2),
+  box-shadow: 6px 6px 6px 0 rgba(0, 0, 0, 0.2),
   -6px -6px 12px 0 rgba(255, 255, 255, 0.5);
   scroll-snap-align: start;
   transition: all 0.2s;
@@ -34,7 +34,8 @@
 }
 
 .round {
-  width: 120px;
+  width: 100px;
+  height: 100px;
 }
 
 .card .round {
@@ -48,7 +49,7 @@
 }
 
 .card-content p {
-  font-size: 0.88rem
+  font-size: 1.3rem
 }
 
 button.primary {
@@ -97,122 +98,84 @@ button.ghost:hover {
     <ul class="cards">
       <li class="card">
         <div style="margin-top: 5px">
-          <!--          <img alt="user" class="round" src="./alex%20(1).jpeg"/>-->
+          <img alt="user" class="round" src="./alex%20(1).jpeg"/>
           <h3 class="card-title">Alexandros Kourtis</h3>
           <div class="card-content">
             <p>Web Exploitation</p>
           </div>
         </div>
-        <div class="buttons" style="margin-bottom: 5px">
-          <button class="primary">
-            <a href="">Email</a>
-          </button>
-          <button class="primary ghost">
-            <a href="">LinkedIn</a>
-          </button>
-        </div>
       </li>
       <li class="card">
         <div style="margin-top: 5px">
-          <!--          <img alt="user" class="round" src="./pinelopi.jpg"/>-->
-          <h3 class="card-title">Deyonna</h3>
-          <div class="card-content">
-            <p>Cryptography</p>
-          </div>
-        </div>
-        <div class="buttons" style="margin-bottom: 5px">
-          <button class="primary">
-            <a href="">Email</a>
-          </button>
-          <button class="primary ghost">
-            <a href="">LinkedIn</a>
-          </button>
-        </div>
-      </li>
-      <li class="card">
-        <div style="margin-top: 5px">
-          <!--          <img alt="user" class="round" src="https://randomuser.me/api/portraits/women/8.jpg"/>-->
-          <h3 class="card-title">Epitidios</h3>
+          <img alt="user" class="round" src="./IMG_20230202_140030_4%20(Large).jpg"/>
+          <h3 class="card-title">Michael Strintzis</h3>
           <div class="card-content">
             <p>User Interface Designer</p>
           </div>
         </div>
-        <div class="buttons" style="margin-bottom: 5px">
-          <button class="primary">
-            <a href="">Email</a>
-          </button>
-          <button class="primary ghost">
-            <a href="">LinkedIn</a>
-          </button>
+      </li>
+      <li class="card">
+        <div style="margin-top: 5px">
+          <img alt="user" class="round" src="./haris%20(1).jpg"/>
+          <h3 class="card-title">Haris Chastoukis</h3>
+          <div class="card-content">
+            <p>User Interface Designer</p>
+          </div>
         </div>
       </li>
       <li class="card">
         <div style="margin-top: 5px">
-          <!--          <img alt="user" class="round" src="https://randomuser.me/api/portraits/women/8.jpg"/>-->
+          <img alt="user" class="round" src="./cereal.jpg"/>
           <h3 class="card-title">Cereal</h3>
           <div class="card-content">
             <p>Reverse Engineering</p>
           </div>
         </div>
-        <div class="buttons" style="margin-bottom: 5px">
-          <button class="primary">
-            <a href="">Email</a>
-          </button>
-          <button class="primary ghost">
-            <a href="">LinkedIn</a>
-          </button>
+      </li>
+      <li class="card">
+        <div style="margin-top: 5px">
+          <img alt="user" class="round" src="./pinelopi.jpg"/>
+          <h3 class="card-title">Pinelopi (Deyonna) Gkinala</h3>
+          <div class="card-content">
+            <p>Cryptography</p>
+          </div>
         </div>
       </li>
       <li class="card">
         <div style="margin-top: 5px">
-          <!--          <img alt="user" class="round" src="https://randomuser.me/api/portraits/women/8.jpg"/>-->
+          <img alt="user" class="round" src="./epit.png"/>
+          <h3 class="card-title">Epitidios</h3>
+          <div class="card-content">
+            <p>User Interface Designer</p>
+          </div>
+        </div>
+      </li>
+      <li class="card">
+        <div style="margin-top: 5px">
+          <img alt="user" class="round" src="./241335002_149230457370724_3976215612855430451_n.jpg"/>
           <h3 class="card-title">Chris Kalos</h3>
           <div class="card-content">
             <p>Binary Exploitation (PWN)</p>
           </div>
         </div>
-        <div class="buttons" style="margin-bottom: 5px">
-          <button class="primary">
-            <a href="">Email</a>
-          </button>
-          <button class="primary ghost">
-            <a href="">LinkedIn</a>
-          </button>
-        </div>
       </li>
       <li class="card">
         <div style="margin-top: 5px">
-          <!--          <img alt="user" class="round" src="https://randomuser.me/api/portraits/women/8.jpg"/>-->
+          <img alt="user" class="round" src="./ghost.png"/>
           <h3 class="card-title">Manos Karageorgiou</h3>
           <div class="card-content">
             <p>Forensics</p>
           </div>
         </div>
-        <div class="buttons" style="margin-bottom: 5px">
-          <button class="primary">
-            <a href="">Email</a>
-          </button>
-          <button class="primary ghost">
-            <a href="">LinkedIn</a>
-          </button>
-        </div>
       </li>
 
       <li class="card">
         <div style="margin-top: 5px">
-          <!--          <img alt="user" class="round" src="https://randomuser.me/api/portraits/women/8.jpg"/>-->
+          <img alt="user" class="round" src="./meletios%20(1).jpg"/>
           <h3 class="card-title">Meletios Flevarakis</h3>
           <div class="card-content">
             <p>Steganography</p>
           </div>
-        </div>
-        <div class="buttons" style="margin-bottom: 5px">
-          <button class="primary">
-            <a href="">Email</a>
-          </button>
-          <button class="primary ghost">
-            <a href="">LinkedIn</a>
-          </button>
         </div>
       </li>
     </ul>
