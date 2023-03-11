@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57f49232-814b-4835-9ad9-3ff03d9ec383" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/241335002_149230457370724_3976215612855430451_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/37818282_290648255021746_3369614423118315520_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/alex (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/evan (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/haris (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/meletios (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/pinelopi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/assets/riki (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/241335002_149230457370724_3976215612855430451_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/37818282_290648255021746_3369614423118315520_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Members.3c477155.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Members.50190308.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/alex (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/cyberseclogotrans.ec4d2fbb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/evan (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/haris (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/index.11bd06f8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/index.869cb8fe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/meletios (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pinelopi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/riki (1).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Members.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Members.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +60,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "code.cleanup.on.save": "true",
-    "last_opened_file_path": "D:/Soft Development/cybersecwebsite/src",
+    "last_opened_file_path": "D:/Soft Development/cybersecwebsite/src/views",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -50,7 +71,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Soft Development\cybersecwebsite\src\views" />
       <recent name="D:\Soft Development\cybersecwebsite\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Soft Development\cybersecwebsite\dist\assets" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -61,7 +86,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676427752974</updated>
-      <workItem from="1676427754589" duration="8512000" />
+      <workItem from="1676427754589" duration="8746000" />
+      <workItem from="1678500243775" duration="2047000" />
     </task>
     <servers />
   </component>

@@ -33,6 +33,10 @@
   font-size: 1.5rem;
 }
 
+.round {
+  width: 120px;
+}
+
 .card .round {
   border: 2px solid var(--persian-orange);
   border-radius: 50%;
@@ -93,7 +97,7 @@ button.ghost:hover {
     <ul class="cards">
       <li class="card">
         <div style="margin-top: 5px">
-          <img alt="user" class="round" src="https://randomuser.me/api/portraits/women/8.jpg"/>
+          <!--          <img alt="user" class="round" src="./alex%20(1).jpeg"/>-->
           <h3 class="card-title">Alexandros Kourtis</h3>
           <div class="card-content">
             <p>Web Exploitation</p>
@@ -110,7 +114,7 @@ button.ghost:hover {
       </li>
       <li class="card">
         <div style="margin-top: 5px">
-          <img alt="user" class="round" src="https://randomuser.me/api/portraits/women/8.jpg"/>
+          <!--          <img alt="user" class="round" src="./pinelopi.jpg"/>-->
           <h3 class="card-title">Deyonna</h3>
           <div class="card-content">
             <p>Cryptography</p>
@@ -127,7 +131,7 @@ button.ghost:hover {
       </li>
       <li class="card">
         <div style="margin-top: 5px">
-          <img alt="user" class="round" src="https://randomuser.me/api/portraits/women/8.jpg"/>
+          <!--          <img alt="user" class="round" src="https://randomuser.me/api/portraits/women/8.jpg"/>-->
           <h3 class="card-title">Epitidios</h3>
           <div class="card-content">
             <p>User Interface Designer</p>
@@ -144,7 +148,7 @@ button.ghost:hover {
       </li>
       <li class="card">
         <div style="margin-top: 5px">
-          <img alt="user" class="round" src="https://randomuser.me/api/portraits/women/8.jpg"/>
+          <!--          <img alt="user" class="round" src="https://randomuser.me/api/portraits/women/8.jpg"/>-->
           <h3 class="card-title">Cereal</h3>
           <div class="card-content">
             <p>Reverse Engineering</p>
@@ -161,7 +165,7 @@ button.ghost:hover {
       </li>
       <li class="card">
         <div style="margin-top: 5px">
-          <img alt="user" class="round" src="https://randomuser.me/api/portraits/women/8.jpg"/>
+          <!--          <img alt="user" class="round" src="https://randomuser.me/api/portraits/women/8.jpg"/>-->
           <h3 class="card-title">Chris Kalos</h3>
           <div class="card-content">
             <p>Binary Exploitation (PWN)</p>
@@ -178,8 +182,8 @@ button.ghost:hover {
       </li>
       <li class="card">
         <div style="margin-top: 5px">
-          <img alt="user" class="round" src="https://randomuser.me/api/portraits/women/8.jpg"/>
-          <h3 class="card-title">Manos</h3>
+          <!--          <img alt="user" class="round" src="https://randomuser.me/api/portraits/women/8.jpg"/>-->
+          <h3 class="card-title">Manos Karageorgiou</h3>
           <div class="card-content">
             <p>Forensics</p>
           </div>
@@ -196,8 +200,8 @@ button.ghost:hover {
 
       <li class="card">
         <div style="margin-top: 5px">
-          <img alt="user" class="round" src="https://randomuser.me/api/portraits/women/8.jpg"/>
-          <h3 class="card-title">Meletios</h3>
+          <!--          <img alt="user" class="round" src="https://randomuser.me/api/portraits/women/8.jpg"/>-->
+          <h3 class="card-title">Meletios Flevarakis</h3>
           <div class="card-content">
             <p>Steganography</p>
           </div>
