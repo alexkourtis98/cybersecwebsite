@@ -110,7 +110,7 @@ button.ghost:hover {
           <img alt="user" class="round" src="./michael.jpg"/>
           <h3 class="card-title">Michael Strintzis</h3>
           <div class="card-content">
-            <p>User Interface Designer</p>
+            <p>TBA</p>
           </div>
         </div>
       </li>
@@ -119,7 +119,7 @@ button.ghost:hover {
           <img alt="user" class="round" src="./haris.jpg"/>
           <h3 class="card-title">Haris Chastoukis</h3>
           <div class="card-content">
-            <p>User Interface Designer</p>
+            <p>TBA</p>
           </div>
         </div>
       </li>
@@ -146,7 +146,7 @@ button.ghost:hover {
           <img alt="user" class="round" src="./epit.png"/>
           <h3 class="card-title">Epitidios</h3>
           <div class="card-content">
-            <p>User Interface Designer</p>
+            <p>TBA</p>
           </div>
         </div>
       </li>
