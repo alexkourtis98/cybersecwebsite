@@ -10,7 +10,7 @@ export default createRouter({
         },
         {
             path: '/cybersecwebsite/members',
-            component: () => import('@/views/Members.vue'),
+            component: async () => await import('@/views/Members.vue'),
         },
     ],
 })
