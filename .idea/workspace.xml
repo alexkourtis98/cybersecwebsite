@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57f49232-814b-4835-9ad9-3ff03d9ec383" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/views/IMG_20230202_140030_4 (Large).jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/IMG_20230202_140030_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/cereal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/epit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/ghost.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/Members.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Members.vue" afterDir="false" />
     </list>
@@ -72,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676427752974</updated>
       <workItem from="1676427754589" duration="8746000" />
-      <workItem from="1678500243775" duration="4178000" />
+      <workItem from="1678500243775" duration="4233000" />
     </task>
     <servers />
   </component>

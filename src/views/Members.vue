@@ -94,7 +94,7 @@ button.ghost:hover {
 <template>
   <div class="container" style="max-width: 80vw; margin: auto">
     <h2 style="text-align: left">The team members of CyberSec</h2>
-    <p style="text-align: left">[Each member specializes on one subject, etc... but we all make it happen together]</p>
+    <p style="text-align: left">[Each member specializes on a subject, but we all make it happen together!]</p>
     <ul class="cards">
       <li class="card">
         <div style="margin-top: 5px">
