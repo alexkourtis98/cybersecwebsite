@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57f49232-814b-4835-9ad9-3ff03d9ec383" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dist/assets/Members.dd88a3f7.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/Members.6c7bd9b0.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/index.3afd74a6.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/assets/index.3afd74a6.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/Members.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Members.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +70,7 @@
       <workItem from="1678500243775" duration="6955000" />
       <workItem from="1678570952328" duration="2047000" />
       <workItem from="1678657161978" duration="617000" />
-      <workItem from="1679236021175" duration="444000" />
+      <workItem from="1679236021175" duration="514000" />
     </task>
     <servers />
   </component>

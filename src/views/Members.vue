@@ -118,7 +118,7 @@
       <li class="card">
         <div style="margin-top: 5px">
           <img alt="user" class="round" src="./cereal.jpg"/>
-          <h3 class="card-title">Nikol</h3>
+          <h3 class="card-title">Christina</h3>
           <div class="card-content">
             <p>Forensics</p>
           </div>
