@@ -63,6 +63,9 @@
   }
 }
 
+.twitterwrapper {
+  margin-bottom: 10px !important;
+}
 </style>
 <template>
   <nav>
