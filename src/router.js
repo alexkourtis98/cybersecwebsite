@@ -1,15 +1,15 @@
-import {createRouter} from 'vue-router'
+import {createRouter, createWebHashHistory} from 'vue-router'
 import Home from '@/views/Home.vue'
 
 export default createRouter({
     history: createWebHashHistory(),
     routes: [
         {
-            path: '/#/',
+            path: '/',
             component: Home,
         },
         {
-            path: '/#/members',
+            path: '/members',
             component: async () => await import('@/views/Members.vue'),
         },
     ],
