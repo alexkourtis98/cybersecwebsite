@@ -67,12 +67,12 @@
         <span></span>
         <span></span>
         <ul id="menu">
-          <router-link to="/">
+          <router-link to="/#">
             <li>
               Home
             </li>
           </router-link>
-          <router-link to="/members">
+          <router-link to="/#/members">
             <li>
               Members
             </li>

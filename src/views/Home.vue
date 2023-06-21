@@ -25,7 +25,7 @@
       </div>
     </div>
     <div class="buttons">
-      <router-link id="router-link" style="width: 160px !important;" to="/members">
+      <router-link id="router-link" style="width: 160px !important;" to="/#/members">
         <div id="membersbtn" style="width: 160px !important;">
           <button
               style="background: #202020; border: 1px solid #EDEADE; border-radius: 4px; padding: 11px; color: #3DE60C; font-weight: bold">
