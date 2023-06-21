@@ -70,6 +70,10 @@
     justify-content: center !important;
     margin: auto !important;
   }
+
+  .container h2 {
+    padding-top: 30px !important;
+  }
 }
 
 

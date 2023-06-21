@@ -44,6 +44,11 @@
     width: 100% !important;
     text-align: left !important;
   }
+
+  .card {
+    width: 80% !important;
+    margin: auto !important;
+  }
 }
 
 @media (min-width: 1100px) {
