@@ -72,7 +72,7 @@
               Home
             </li>
           </router-link>
-          <router-link to="/#/members">
+          <router-link to="/members">
             <li>
               Members
             </li>
