@@ -4,6 +4,15 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+    build: {
+        target: 'esnext',
+        polyfillDynamicImport: false,
+    },
+    server: {
+        fs: {
+            strict: false,
+        },
+    },
     plugins: [
         vue({
             reactivityTransform: true,
