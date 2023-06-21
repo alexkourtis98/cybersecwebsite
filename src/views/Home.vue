@@ -4,6 +4,11 @@
   width: 100%;
 }
 
+@media (max-width: 700px) {
+  #cyberlogo {
+    display: none;
+  }
+}
 </style>
 <template>
   <div class="contentwrapper" style="max-width: 80vw; margin: auto; text-align: left">
@@ -20,7 +25,7 @@
         experience at Deree.
       </h3>
       <div style="height: 150px;">
-        <img alt="" src="../cyberseclogotrans.png"
+        <img id="cyberlogo" alt="" src="../cyberseclogotrans.png"
              style="object-fit: cover; height: 100%;">
       </div>
     </div>
