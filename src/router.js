@@ -5,11 +5,11 @@ export default createRouter({
     history: createWebHistory(),
     routes: [
         {
-            path: '/cybersecwebsite/',
+            path: '/',
             component: Home,
         },
         {
-            path: '/cybersecwebsite/members',
+            path: '/members',
             component: async () => await import('@/views/Members.vue'),
         },
     ],
