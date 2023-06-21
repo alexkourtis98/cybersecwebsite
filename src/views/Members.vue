@@ -76,10 +76,6 @@
   }
 }
 
-.twitterwrapper {
-  margin-bottom: 10px !important;
-}
-
 </style>
 <template>
   <div class="container" style="max-width: 80vw; margin: auto">

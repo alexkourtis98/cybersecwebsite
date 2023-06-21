@@ -15,10 +15,6 @@
     padding-top: 30px !important;
   }
 }
-
-.twitterwrapper {
-  margin-bottom: 10px !important;
-}
 </style>
 <template>
   <div class="contentwrapper" style="max-width: 80vw; margin: auto; text-align: left">

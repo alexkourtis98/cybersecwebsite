@@ -64,7 +64,7 @@
 }
 
 .twitterwrapper {
-  margin-bottom: 10px !important;
+  margin-bottom: 20px !important;
 }
 </style>
 <template>
