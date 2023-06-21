@@ -57,6 +57,12 @@
   }
 }
 
+@media (max-width: 600px) {
+  .container h2 {
+    padding-top: 30px !important;
+  }
+}
+
 </style>
 <template>
   <nav>

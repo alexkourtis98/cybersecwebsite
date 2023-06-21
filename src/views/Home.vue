@@ -9,6 +9,13 @@
     display: none;
   }
 }
+
+@media (max-width: 600px) {
+  .container h2 {
+    padding-top: 30px !important;
+  }
+}
+
 </style>
 <template>
   <div class="contentwrapper" style="max-width: 80vw; margin: auto; text-align: left">
